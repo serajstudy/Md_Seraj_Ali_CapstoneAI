@@ -126,7 +126,7 @@ study-abroad-ai-assistant/
 ### Prerequisites
 
 - Windows 10/11 (or macOS/Linux)
-- Python 3.11 or later
+- Python 3.14 or later
 - [`uv`](https://docs.astral.sh/uv/getting-started/installation/) installed
 - [Ollama](https://ollama.com/download) installed
 - At least 16 GB RAM recommended for a 3B–7B model

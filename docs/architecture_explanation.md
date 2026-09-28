@@ -699,3 +699,5 @@ MVP includes:
 “So, in simple terms, the student asks a question, Streamlit receives it, the application validates the input, `prompts.py` builds the prompt, `llm_helper.py` sends it to my local Llama 3.2:3b model through Ollama, the model generates a response, and Streamlit displays that response back to the student.
 >
 > The architecture is intentionally simple because this is my CAP 942 MVP. I focused on building one complete working AI application rather than adding unnecessary features.”
+
+
